@@ -1,0 +1,14 @@
+C:\Users\nezinau\source\repos\MiniBirza\bin\Debug\net8.0\MiniBirza.exe
+C:\Users\nezinau\source\repos\MiniBirza\bin\Debug\net8.0\MiniBirza.deps.json
+C:\Users\nezinau\source\repos\MiniBirza\bin\Debug\net8.0\MiniBirza.runtimeconfig.json
+C:\Users\nezinau\source\repos\MiniBirza\bin\Debug\net8.0\MiniBirza.dll
+C:\Users\nezinau\source\repos\MiniBirza\bin\Debug\net8.0\MiniBirza.pdb
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\MiniBirza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\MiniBirza.AssemblyInfoInputs.cache
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\MiniBirza.AssemblyInfo.cs
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\MiniBirza.csproj.CoreCompileInputs.cache
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\MiniBirza.dll
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\refint\MiniBirza.dll
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\MiniBirza.pdb
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\MiniBirza.genruntimeconfig.cache
+C:\Users\nezinau\source\repos\MiniBirza\obj\Debug\net8.0\ref\MiniBirza.dll
