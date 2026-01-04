@@ -3,12 +3,11 @@ using System.Globalization;
 
 namespace MiniBirza
 {
-    // parenka modelį ir paleidžia žaidimą.
+    // parenka modeli ir paleidžia žaidima.
     public class Program
     {
         public static void Main(string[] args)
         {
-            // Kad skaičių formatavimas būtų prognozuojamas
             CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
 
             const decimal startingCash = 10_000m;
@@ -49,4 +48,5 @@ namespace MiniBirza
             game.Run();
         }
     }
+
 }
